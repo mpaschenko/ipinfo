@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IpInfo</string>
+    <string name="submit">Submit</string>
+    <string name="error">Error: %1$s</string>
+    <string name="ip_info_lookup_result">IP Info Lookup Result</string>
+    <string name="city">City: %1$s</string>
+    <string name="region">Region: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="zip_code">ZIP Code: %1$s</string>
+    <string name="latitude">Latitude: %1$s</string>
+    <string name="longitude">Longitude: %1$s</string>
+    <string name="invalid_ip_address">Invalid IP Address</string>
+    <string name="enter_ip_address">Enter IP Address</string>
+    <string name="ip_info_lookup">IP Info Lookup</string>
+</resources>
